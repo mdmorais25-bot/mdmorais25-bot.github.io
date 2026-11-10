@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mdmorais25bot.treinonasala",
+      "sha256_cert_fingerprints": ["19:38:31:5C:9F:79:B1:A3:06:4D:F4:B8:39:3A:55:96:62:57:D3:9F:9E:A3:41:9E:94:57:DF:9A:65:04:27:E8"]
+    }
+  }
+]
